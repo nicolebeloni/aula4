@@ -4,6 +4,7 @@ body {
     background-image:url("assets/spider-web-cobweb-on-red-260nw-2721104309.webp");
     background-repeat: no-repeat;
     background-size: cover;
+    text-align: center;
 }
 img{
     height: 300px;
